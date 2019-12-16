@@ -1,0 +1,122 @@
+body {
+  font-size: 24px;
+  line-height: 32px;
+}
+.img {
+  position: sticky ;
+  display: block;
+  clear: both;
+
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#Name {
+  background-color: slateblue ;
+  color:ghostwhite;
+  float: auto;
+  width:33.3%;
+  height: 75px;
+  margin-bottom: 20px; 
+}
+#Text {
+  color: slateblue ;
+}
+
+
+#Bio {
+ float: right;
+ width: 70%;
+}
+
+#left {
+float: left;
+width:33.3%;
+color: papayawhip;
+height: 7px;
+margin-bottom: 7px;
+
+}
+#Games {
+background-color: slateblue ;
+color: papayawhip ;
+margin: 5% 5% 5% 5%;
+float: left;
+padding: 1%;
+}
+
+#middle {
+float: left;
+width: 33.3%;
+color:  papayawhip;
+height: 7px;
+margin-bottom: 7px;
+
+}
+#Art {
+background-color: slateblue ;
+color:papayawhip ;
+margin: 5% 5% 5% 5%;
+float: left;
+padding: 1%;
+
+}
+
+#right {
+float: left;
+width: 20%;
+color: papayawhip ;
+height: 7px;
+margin-bottom: 7px;
+
+  }
+
+#Writing {
+background-color: slateblue ;
+color: papayawhip ;
+margin: 5% 5% 5% 5%;
+padding: 1%;
+float: left;
+}
+
+#full {
+  width: 100%;
+  height: 400px;
+  background-color: ghostwhite;
+  margin-top: 100px;
+  margin: inherit;
+}
+
+#division {
+  width: 90%;
+  margin: 70px 5% 0px 5%;
+height: 75px;
+}
+.clearfix {
+  content: '';
+  display: block;
+  clear: both;
+}
+#box {
+  width: 400px;
+  height: 300px;
+}
+
+aside {
+ 
+   background-color: slateblue ;
+   width: 400px;
+   height: 300px;
+   color: lightcoral;
+}
+
+footer {
+  background-color: slateblue ;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: papayawhip ;
+}
+
