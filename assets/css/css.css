@@ -15,15 +15,15 @@ header {
 }
 
 #Name {
-  background-color: slateblue ;
-  color:ghostwhite;
+  background-color:rgba(62, 172, 172, 0.747) ;
+  color:white;
   float: auto;
   width:33.3%;
   height: 75px;
   margin-bottom: 20px; 
 }
 #Text {
-  color: slateblue ;
+  color: white ;
 }
 
 
@@ -32,33 +32,39 @@ header {
  width: 70%;
 }
 
+.Porfolio {
+  position: relative;
+  height: 400px;
+}
+
 #left {
 float: left;
 width:33.3%;
-color: papayawhip;
+color:white ;
 height: 7px;
 margin-bottom: 7px;
-
 }
+
 #Games {
-background-color: slateblue ;
-color: papayawhip ;
+background-color:  rgba(62, 172, 172, 0.747) ;
+color:white  ;
 margin: 5% 5% 5% 5%;
 float: left;
 padding: 1%;
+
 }
 
 #middle {
 float: left;
 width: 33.3%;
-color:  papayawhip;
+color: white ;
 height: 7px;
 margin-bottom: 7px;
 
 }
 #Art {
-background-color: slateblue ;
-color:papayawhip ;
+background-color: rgba(62, 172, 172, 0.747) ;
+color: white ;
 margin: 5% 5% 5% 5%;
 float: left;
 padding: 1%;
@@ -68,26 +74,25 @@ padding: 1%;
 #right {
 float: left;
 width: 20%;
-color: papayawhip ;
+color: white ;
 height: 7px;
 margin-bottom: 7px;
 
   }
 
 #Writing {
-background-color: slateblue ;
-color: papayawhip ;
+background-color: rgba(62, 172, 172, 0.747) ;
+color:white ;
 margin: 5% 5% 5% 5%;
 padding: 1%;
 float: left;
 }
 
 #full {
-  width: 100%;
-  height: 400px;
-  background-color: ghostwhite;
-  margin-top: 100px;
-  margin: inherit;
+  width: 200px;
+  height: 200px ;
+  fill-opacity: initial;
+ 
 }
 
 #division {
@@ -107,16 +112,16 @@ height: 75px;
 
 aside {
  
-   background-color: slateblue ;
-   width: 400px;
-   height: 300px;
-   color: lightcoral;
+   background-color:rgba(62, 172, 172, 0.747);
+   width: 100%;
+   height: 100%;
+   padding: 1%;
 }
 
 footer {
-  background-color: slateblue ;
+  background-color:  rgba(62, 172, 172, 0.747) ;
   padding: 20px;
   margin-bottom: 20px;
-  color: papayawhip ;
+  color: white ;
 }
 
