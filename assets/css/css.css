@@ -103,7 +103,7 @@ color:white  ;
 margin: 5% 5% 5% 5%;
 float: left;
 padding: 1%;
-
+font-family: 'Gelasio', serif;
 }
 
 #middle {
@@ -120,7 +120,7 @@ color: white ;
 margin: 5% 5% 5% 5%;
 float: left;
 padding: 1%;
-
+font-family: 'Gelasio', serif;
 }
 
 #right {
@@ -138,6 +138,7 @@ color:white ;
 margin: 5% 5% 5% 5%;
 padding: 1%;
 float: left;
+font-family:'Gelasio', serif;
 }
 
 #full {
@@ -169,6 +170,7 @@ aside {
   padding: -3%;
   margin-left: 17%;
   position: absolute;
+  font-family: 'Inria Serif', serif;
 }
 
 form {
@@ -178,6 +180,7 @@ form {
     padding: 2%;
     margin-left: 3%;
      padding: 1%;
+     font-family: 'Inria Serif', serif;
 }
 
 footer {
