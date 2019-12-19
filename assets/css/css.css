@@ -31,7 +31,7 @@ button {
 
 
 .box-set {
-  position: relative;
+  position: fixed;
   height: 200px;
   background: white;
 }
@@ -101,9 +101,11 @@ margin-bottom: 7px;
 background-color:  rgba(62, 172, 172, 0.747) ;
 color:white  ;
 margin: 5% 5% 5% 5%;
-float: left;
+left: 10%;
+bottom: -130%;
 padding: 1%;
 font-family: 'Inria Serif', serif;
+position: relative;
 }
 
 #middle {
@@ -118,9 +120,11 @@ margin-bottom: 7px;
 background-color: rgba(62, 172, 172, 0.747) ;
 color: white ;
 margin: 5% 5% 5% 5%;
-float: left;
 padding: 1%;
+left: 160%;
+bottom: -90%;
 font-family: 'Inria Serif', serif;
+position: relative;
 }
 
 #right {
@@ -137,8 +141,10 @@ background-color: rgba(62, 172, 172, 0.747) ;
 color:white ;
 margin: 5% 5% 5% 5%;
 padding: 1%;
-float: left;
+left: 350%;
+top: 30%;
 font-family:'Inria Serif', serif;
+position: relative;
 }
 
 #full {
