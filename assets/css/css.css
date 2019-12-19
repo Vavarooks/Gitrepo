@@ -141,14 +141,12 @@ height: 75px;
 }
 
 aside {
- 
-   background-color:rgba(62, 172, 172, 0.747);
-   width: 79%;
-  height: 250px;
-  padding: 20px;
-  margin-left: 30px;
-   padding: 1%;
-  float: right;
+  background-color:rgba(62, 172, 172, 0.747);
+  width: 69%;
+  height: -50%;
+  padding: -3%;
+  margin-left: 17%;
+  position: absolute;
 }
 
 form {
