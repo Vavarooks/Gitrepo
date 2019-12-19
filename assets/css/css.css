@@ -8,6 +8,23 @@ body {
   clear: both;
 
 }
+button {
+  background-color:rgba(62, 172, 172, 0.747);
+  color: white;
+  height: 350%;
+  width: 70%;
+  font-size: 20px;
+}
+.button:hover {
+  background-color:darkcyan;
+  color: white;
+}
+.button:active {
+  background-color:rgba(62, 172, 172, 0.747);
+  color: white;
+}
+
+
 .box-set {
   position: relative;
   height: 200px;
