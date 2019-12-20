@@ -13,6 +13,11 @@ textarea {
   height: 65px;
 }
 
+p {
+  color: white;
+}
+
+
 button {
   background-color:rgba(62, 172, 172, 0.747);
   color: white;
@@ -177,16 +182,18 @@ aside {
   margin-left: 17%;
   position: absolute;
   font-family: 'Gelasio', serif;
+  color: white;
 }
 
-form {
+#aside {
   background-color:rgba(62, 172, 172, 0.747);
     width: 50%;
-    height: 150%;
+    height: 10%;
     padding: 2%;
     margin-left: 3%;
      padding: 1%;
      font-family: 'Inria Serif', serif;
+
 }
 
 footer {
